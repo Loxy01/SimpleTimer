@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Timer</string>
+
+    <string name="time_set">Set time</string>
+    <string name="cancel">Cancel</string>
+    <string name="time">Time : </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="link">
+        <a href="https://vk.com/new2019year_top">My Vk Account</a>
+        </string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="fragment">Fragment</string>
+    <string name="title_activity_timer_settings">Timer_SettingsActivity</string>
+</resources>

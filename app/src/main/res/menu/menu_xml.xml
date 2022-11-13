@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Settings"
+        android:id="@+id/SettingsMenu"
+        android:icon="@drawable/baseline_settings_24"
+        app:showAsAction="always"
+        android:orderInCategory="2"
+        />
+    <item android:title="Set your default time"
+        android:id="@+id/SetTime"
+        android:icon="@drawable/baseline_more_time_24"
+        app:showAsAction="always"
+        android:orderInCategory="1"
+        />
+</menu>
